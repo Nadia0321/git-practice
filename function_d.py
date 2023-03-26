@@ -4,6 +4,7 @@ def max_value(numbers):
     """
     return True
 d = 5
+h = 6
 
 
 if __name__ == "__main__":
